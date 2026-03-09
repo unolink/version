@@ -1,3 +1,3 @@
-module github.com/unolink/template-go-lib
+module github.com/unolink/version
 
 go 1.24
